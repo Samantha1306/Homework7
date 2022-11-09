@@ -1,0 +1,15 @@
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\obj\Debug\net6.0\Ex50.csproj.AssemblyReference.cache
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\obj\Debug\net6.0\Ex50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\obj\Debug\net6.0\Ex50.AssemblyInfoInputs.cache
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\obj\Debug\net6.0\Ex50.AssemblyInfo.cs
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\obj\Debug\net6.0\Ex50.csproj.CoreCompileInputs.cache
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\bin\Debug\net6.0\Ex50.exe
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\bin\Debug\net6.0\Ex50.deps.json
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\bin\Debug\net6.0\Ex50.runtimeconfig.json
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\bin\Debug\net6.0\Ex50.dll
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\bin\Debug\net6.0\Ex50.pdb
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\obj\Debug\net6.0\Ex50.dll
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\obj\Debug\net6.0\refint\Ex50.dll
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\obj\Debug\net6.0\Ex50.pdb
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\obj\Debug\net6.0\Ex50.genruntimeconfig.cache
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex50\obj\Debug\net6.0\ref\Ex50.dll
