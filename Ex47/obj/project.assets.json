@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samantha\\Desktop\\Обучение\\Знакомство с языками программирования\\Семинары\\Урок 7\\Homework\\Ex47\\Ex47.csproj",
-      "projectName": "Ex47",
-      "projectPath": "C:\\Users\\Samantha\\Desktop\\Обучение\\Знакомство с языками программирования\\Семинары\\Урок 7\\Homework\\Ex47\\Ex47.csproj",
+      "projectUniqueName": "C:\\Users\\Samantha\\Desktop\\Обучение\\Знакомство с языками программирования\\Семинары\\Урок 7\\Homework\\Ex477\\Ex477.csproj",
+      "projectName": "Ex477",
+      "projectPath": "C:\\Users\\Samantha\\Desktop\\Обучение\\Знакомство с языками программирования\\Семинары\\Урок 7\\Homework\\Ex477\\Ex477.csproj",
       "packagesPath": "C:\\Users\\Samantha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samantha\\Desktop\\Обучение\\Знакомство с языками программирования\\Семинары\\Урок 7\\Homework\\Ex47\\obj\\",
+      "outputPath": "C:\\Users\\Samantha\\Desktop\\Обучение\\Знакомство с языками программирования\\Семинары\\Урок 7\\Homework\\Ex477\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samantha\\AppData\\Roaming\\NuGet\\NuGet.Config"
