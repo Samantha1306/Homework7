@@ -1,0 +1,15 @@
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\bin\Debug\net6.0\Ex47.exe
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\bin\Debug\net6.0\Ex47.deps.json
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\bin\Debug\net6.0\Ex47.runtimeconfig.json
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\bin\Debug\net6.0\Ex47.dll
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\bin\Debug\net6.0\Ex47.pdb
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\obj\Debug\net6.0\Ex47.csproj.AssemblyReference.cache
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\obj\Debug\net6.0\Ex47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\obj\Debug\net6.0\Ex47.AssemblyInfoInputs.cache
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\obj\Debug\net6.0\Ex47.AssemblyInfo.cs
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\obj\Debug\net6.0\Ex47.csproj.CoreCompileInputs.cache
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\obj\Debug\net6.0\Ex47.dll
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\obj\Debug\net6.0\refint\Ex47.dll
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\obj\Debug\net6.0\Ex47.pdb
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\obj\Debug\net6.0\Ex47.genruntimeconfig.cache
+C:\Users\Samantha\Desktop\Обучение\Знакомство с языками программирования\Семинары\Урок 7\Homework\Ex47\obj\Debug\net6.0\ref\Ex47.dll
